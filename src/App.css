@@ -13,3 +13,9 @@ body {
   );
   text-align: center;
 }
+
+.robots-title{
+  font-size: 4rem;
+  color: #0ccac4;
+  font-family: 'Roboto';
+}
